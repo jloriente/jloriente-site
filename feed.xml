@@ -4,10 +4,10 @@
     <title>@JavierLoriente</title>
     <description>Software developer and entrepreneur. Dublin/Zaragoza/Madrid
 </description>
-    <link>http://javierloriente.net/jloriente-site/</link>
-    <atom:link href="http://javierloriente.net/jloriente-site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Apr 2016 13:50:34 +0200</pubDate>
-    <lastBuildDate>Thu, 07 Apr 2016 13:50:34 +0200</lastBuildDate>
+    <link>http://javierloriente.net/</link>
+    <atom:link href="http://javierloriente.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 07 Apr 2016 14:25:07 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2016 14:25:07 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Fri, 26 Feb 2016 18:52:18 +0100</pubDate>
-        <link>http://javierloriente.net/jloriente-site/jekyll/update/2016/02/26/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://javierloriente.net/jloriente-site/jekyll/update/2016/02/26/welcome-to-jekyll.html</guid>
+        <link>http://javierloriente.net/jekyll/update/2016/02/26/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://javierloriente.net/jekyll/update/2016/02/26/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
