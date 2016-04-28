@@ -8,6 +8,11 @@ Software developer and entrepreneur with more than ten years of experience desig
 
 I have a MSc. from Trinity College in Network and Distributed Sytems, a MSc. from UEM in Information Technologies Management and a BSc. in Computer Science from Cardiff University.
 
+
+NEW (TODO: review)
+
+Designing and creating software for the cloud and mobile devices. I started in 2003 by creating a Linux distribution for a Bank in Spain, migrate to Dublin to get a Master degree and work in international software companies, become a mobile and web developer and now co-founded InnerFunction and Go Movil.
+
 You can find more info about me in: 
 {% include icon-github.html username="jloriente" %} /
 [@JavierLoriente](https://twitter.com/JavierLoriente) /
