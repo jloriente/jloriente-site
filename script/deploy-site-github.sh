@@ -1,5 +1,5 @@
 #!/bin/bash
-jekyll build -o output
+jekyll build -d output
 git add output
 git commit -m "adding new build output"
 git push origin master
