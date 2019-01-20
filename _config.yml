@@ -9,7 +9,7 @@
 title: "@JavierLoriente"
 email: jloriente@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Software developer and entrepreneur. Dublin/Zaragoza/Madrid
+  Full-stack developer and entrepreneur. Dublin/Zaragoza
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://javierloriente.com" # the base hostname & protocol for your site
 twitter_username: JavierLoriente
