@@ -1,8 +1,6 @@
----
-layout: page
-title: Projects
-permalink: /projects/
----
+
+
+During the last 10 years I've been involved in a number of projects in several countries: Ireland, UK, Spain, Mexico.
 
 I'm mostly involved in mobile app development but I also enjoy Web development and normally work in international projects in several coutries including: Ireland, UK, Spain, Mexico...
 
@@ -16,7 +14,7 @@ This are some of the open source projects I've been involved:
 * [Q](https://github.com/innerfunction/Q-ios): Asynchronous promise implementation for iOS.
 
 Here a list of some of my previous projects:
- 
+
 * [ScoreRivals](http://scorerivals.com/)
 * [Aphorismus](http://aphorism.us/)
 * [WebMob](http://webmob.es)
@@ -24,4 +22,3 @@ Here a list of some of my previous projects:
 * [Vodafone Conference App](http://doit-mobile.com/project/the-vodafone-conference-call-app/)
 * [OnGP](http://doit-mobile.com/project/the-onf1-app/)
 * [Galway Xmas Market](http://doit-mobile.com/project/the-galway-continental-christmas-market-app/)
-
